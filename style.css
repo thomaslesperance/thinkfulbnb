@@ -146,6 +146,7 @@ footer p {
   .group {
     display: flex;
     flex-direction: column;
+    flex: 1;
   }
 
   form {
@@ -156,6 +157,13 @@ footer p {
 
   form div {
     flex: 1;
+  }
+
+  form div input,
+  form div label,
+  form div select,
+  form div button {
+    width: 95%;
   }
 
   form label,
