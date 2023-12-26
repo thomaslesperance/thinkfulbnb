@@ -16,7 +16,7 @@ The application is a basic HTML page with an external stylesheet and images. The
 ![](images/Thinkfulbnb-desktop.png)
 
 ## Features
-The web page features both a mobile and desktop view based on flexbox styling techniques. The form is a placeholder for visualization purposes. The navigation links at the top of the page move the view to the corresponding sections below on the page.
+The web page features both a mobile and desktop view based on Flexbox styling techniques. The form is a placeholder for visualization purposes. The navigation links at the top of the page move the view to the corresponding sections below on the page.
 
 ## Technologies and Tools
 -- HTML/ CSS
